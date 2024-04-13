@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 ML_Project_Updated.ipynb
 
